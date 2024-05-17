@@ -1,0 +1,1035 @@
+706: {
+    "currentData": {
+        "adminHier": {
+            "buDesc": "FULL LINE",
+            "buMedDesc": "FULL LINE",
+            "buNumber": "1000",
+            "entDesc": "NORDSTROM",
+            "entMedDesc": "NORDSTROM",
+            "entNumber": "1000",
+            "groupDesc": "FULL LINE STORES",
+            "groupMedDesc": "FULL LINE STORE",
+            "groupNumber": "100",
+            "regionDesc": "SCAL SOUTH FULL LINE",
+            "regionMedDesc": "SCAL SO FULL LN",
+            "regionNumber": "130",
+            "regionShortDesc": "SC SO FL",
+            "subGroupDesc": "SOUTHERN CALIFORNIA FLS",
+            "subGroupMedDesc": "SCAL FLS",
+            "subGroupNumber": "380",
+            "subGroupShortDesc": "SCAL FLS"
+        },
+        "compStatusCode": "CP",
+        "compStatusDesc": "COMP",
+        "curbsidePickup": {
+            "curbsideTemporarilyDisabled": false,
+            "curbsideType": "driveUp,walkUp,stalls",
+            "dailyHours": [
+                {
+                    "closeDateTime": "2024-03-10T19:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-10T11:00:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-11T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-11T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-12T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-12T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-13T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-13T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-14T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-14T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-15T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-15T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-16T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-16T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-17T19:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-17T11:00:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-18T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-18T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-19T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-19T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-20T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-20T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-21T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-21T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-22T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-22T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-23T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-23T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-24T19:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-24T11:00:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-25T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-25T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                },
+                {
+                    "closeDateTime": "2024-03-26T21:00:00-10:00",
+                    "closeTimeZoneAbbrev": "HST",
+                    "hoursType": "regular",
+                    "openDateTime": "2024-03-26T09:30:00-10:00",
+                    "openTimeZoneAbbrev": "HST",
+                    "periodOverrideName": ""
+                }
+            ],
+            "detailedStoreHours": {
+                "periodOverrides": [],
+                "regularWeeklyScheduleDays0Sun6Sat": [
+                    {
+                        "closeAbsoluteTime": "T21:00:00",
+                        "dayOfWeekEnd0Sun6Sat": 6,
+                        "dayOfWeekStart0Sun6Sat": 1,
+                        "openAbsoluteTime": "T09:30:00"
+                    },
+                    {
+                        "closeAbsoluteTime": "T19:00:00",
+                        "dayOfWeekEnd0Sun6Sat": 0,
+                        "dayOfWeekStart0Sun6Sat": 0,
+                        "openAbsoluteTime": "T11:00:00"
+                    }
+                ]
+            },
+            "lastEnabledAvailability": "2023-08-23T17:40:24Z",
+            "location": "Level 2 of Makai Parking Structure",
+            "phone": "8089536140",
+            "storePickupLocation": "Store Level 1 near Jewelry department"
+        },
+        "dc": {
+            "name": "N CALIFORNIA DC",
+            "storeNumber": "499"
+        },
+        "detailedStoreHours": {
+            "periodOverrides": [
+                {
+                    "isPlanned": true,
+                    "name": "Special Store Hours",
+                    "periodOverrideDays": [
+                        {
+                            "closeDateTime": "2024-03-31T00:00:00-10:00",
+                            "openDateTime": "2024-03-31T00:00:00-10:00"
+                        }
+                    ]
+                }
+            ],
+            "regularWeeklyScheduleDays0Sun6Sat": [
+                {
+                    "closeAbsoluteTime": "T21:00:00",
+                    "dayOfWeekEnd0Sun6Sat": 6,
+                    "dayOfWeekStart0Sun6Sat": 1,
+                    "openAbsoluteTime": "T10:00:00"
+                },
+                {
+                    "closeAbsoluteTime": "T20:00:00",
+                    "dayOfWeekEnd0Sun6Sat": 0,
+                    "dayOfWeekStart0Sun6Sat": 0,
+                    "openAbsoluteTime": "T10:00:00"
+                }
+            ]
+        },
+        "displayAddress": {
+            "cityName": "Honolulu",
+            "displayLatitude": 21.292169,
+            "displayLongitude": -157.846596,
+            "line1Text": "1450 Ala Moana Blvd, Ste 2950",
+            "postalCode": "96814",
+            "stateCode": "HI"
+        },
+        "displayName": "Nordstrom Ala Moana",
+        "eligibilityTypes": [
+            {
+                "code": "BPUS",
+                "desc": "BOPUS"
+            },
+            {
+                "code": "SSUS",
+                "desc": "Store Ship US"
+            }
+        ],
+        "floorNOWs": [
+            {
+                "code": "70601",
+                "desc": "1ST FLOOR",
+                "nows": [
+                    {
+                        "nowDisplayName": "Salon Shoes",
+                        "nowNumber": "1000",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Salon Shoes"
+                    },
+                    {
+                        "nowDisplayName": "Shoe Shine",
+                        "nowNumber": "1015",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT"
+                    },
+                    {
+                        "nowDisplayName": "Women's Shoes",
+                        "nowNumber": "1035",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Bp. Shoes"
+                    },
+                    {
+                        "nowDisplayName": "Women's Shoes",
+                        "nowNumber": "1035",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Women's Shoes"
+                    },
+                    {
+                        "nowDisplayName": "Accessories",
+                        "nowNumber": "1064",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Accessories"
+                    },
+                    {
+                        "nowDisplayName": "Accessories",
+                        "nowNumber": "1064",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Sunglasses"
+                    },
+                    {
+                        "nowDisplayName": "Handbags",
+                        "nowNumber": "1081",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Handbags"
+                    },
+                    {
+                        "nowDisplayName": "Brass Plum Fashion Board",
+                        "nowNumber": "1147",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES"
+                    },
+                    {
+                        "nowDisplayName": "Active",
+                        "nowNumber": "1213",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Active \u0026 Swim"
+                    },
+                    {
+                        "nowDisplayName": "Customer Relationship Manager",
+                        "nowNumber": "1217",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT"
+                    },
+                    {
+                        "nowDisplayName": "Alterations",
+                        "nowNumber": "1220",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT"
+                    },
+                    {
+                        "nowDisplayName": "Tailor Shop",
+                        "nowNumber": "1223",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT"
+                    },
+                    {
+                        "nowDisplayName": "Concierge",
+                        "nowNumber": "1236",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT"
+                    },
+                    {
+                        "nowDisplayName": "Rovers",
+                        "nowNumber": "1237",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT"
+                    },
+                    {
+                        "nowDisplayName": "E-Bar",
+                        "nowNumber": "1250",
+                        "nowTypeCode": "RT",
+                        "nowTypeDesc": "RESTAURANT"
+                    },
+                    {
+                        "nowDisplayName": "Gelato Bar",
+                        "nowNumber": "1252",
+                        "nowTypeCode": "RT",
+                        "nowTypeDesc": "RESTAURANT",
+                        "storeNowDisplayName": "Gelato Bar"
+                    },
+                    {
+                        "nowDisplayName": "Beauty, Fragrance, Wellness",
+                        "nowNumber": "1302",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Beauty"
+                    },
+                    {
+                        "nowDisplayName": "Jewelry",
+                        "nowNumber": "1401",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Fashion Jewelry"
+                    },
+                    {
+                        "nowDisplayName": "Ruscello",
+                        "nowNumber": "1556",
+                        "nowTypeCode": "RT",
+                        "nowTypeDesc": "RESTAURANT",
+                        "storeNowDisplayName": "Habitant"
+                    },
+                    {
+                        "nowDisplayName": "Beauty Studio",
+                        "nowNumber": "2007",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Beauty Studio"
+                    },
+                    {
+                        "nowDisplayName": "Order Pickup",
+                        "nowNumber": "2018",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT",
+                        "storeNowDisplayName": "Order Pickup"
+                    },
+                    {
+                        "nowDisplayName": "Service Bar",
+                        "nowNumber": "2022",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT",
+                        "storeNowDisplayName": "Service Bar"
+                    },
+                    {
+                        "nowDisplayName": "Fine Jewelry",
+                        "nowNumber": "2028",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Fine Jewelry"
+                    },
+                    {
+                        "nowDisplayName": "Longchamp Handbags/Acc Shop",
+                        "nowNumber": "2042",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Longchamp Handbags/Acc Shop"
+                    },
+                    {
+                        "nowDisplayName": "Loewe Handbags/Access Shop",
+                        "nowNumber": "2048",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Loewe Handbags/Access Shop"
+                    },
+                    {
+                        "nowDisplayName": "The Gift Shop",
+                        "nowNumber": "5252",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "The Gift Shop"
+                    }
+                ],
+                "type": "FLOOR - RTL/OFC"
+            },
+            {
+                "code": "70602",
+                "desc": "2ND FLOOR",
+                "nows": [
+                    {
+                        "nowDisplayName": "Trend Accessories",
+                        "nowNumber": "1071",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Trend Accessories"
+                    },
+                    {
+                        "nowDisplayName": "Lingerie",
+                        "nowNumber": "1076",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Legwear"
+                    },
+                    {
+                        "nowDisplayName": "Lingerie",
+                        "nowNumber": "1076",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Lingerie"
+                    },
+                    {
+                        "nowDisplayName": "Tbd",
+                        "nowNumber": "1096",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "T.B.D."
+                    },
+                    {
+                        "nowDisplayName": "Dresses",
+                        "nowNumber": "1101",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Dresses"
+                    },
+                    {
+                        "nowDisplayName": "Individualist",
+                        "nowNumber": "1164",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Individualist"
+                    },
+                    {
+                        "nowDisplayName": "E-Bar",
+                        "nowNumber": "1250",
+                        "nowTypeCode": "RT",
+                        "nowTypeDesc": "RESTAURANT",
+                        "storeNowDisplayName": "Ebar"
+                    },
+                    {
+                        "nowDisplayName": "Point Of View/Special Sizes",
+                        "nowNumber": "1481",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Point Of View"
+                    },
+                    {
+                        "nowDisplayName": "Savvy/Topshop/Bp",
+                        "nowNumber": "5147",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Bp."
+                    },
+                    {
+                        "nowDisplayName": "Savvy/Topshop/Bp",
+                        "nowNumber": "5147",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Savvy"
+                    },
+                    {
+                        "nowDisplayName": "Savvy/Topshop/Bp",
+                        "nowNumber": "5147",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Topshop"
+                    }
+                ],
+                "type": "FLOOR - RTL/OFC"
+            },
+            {
+                "code": "70603",
+                "desc": "3RD FLOOR",
+                "nows": [
+                    {
+                        "nowDisplayName": "Mens Shoes",
+                        "nowNumber": "1001",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Men's Shoes"
+                    },
+                    {
+                        "nowDisplayName": "Personal Stylist",
+                        "nowNumber": "1005",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT"
+                    },
+                    {
+                        "nowDisplayName": "Kids' Shoes",
+                        "nowNumber": "1008",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Kids' Shoes"
+                    },
+                    {
+                        "nowDisplayName": "At Home",
+                        "nowNumber": "1061",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "At Home"
+                    },
+                    {
+                        "nowDisplayName": "Customer Service",
+                        "nowNumber": "1232",
+                        "nowTypeCode": "SP",
+                        "nowTypeDesc": "SALES SUPPORT"
+                    },
+                    {
+                        "nowDisplayName": "Ruscello",
+                        "nowNumber": "1241",
+                        "nowTypeCode": "RT",
+                        "nowTypeDesc": "RESTAURANT",
+                        "storeNowDisplayName": "Habitant"
+                    },
+                    {
+                        "nowDisplayName": "E-Bar",
+                        "nowNumber": "1250",
+                        "nowTypeCode": "RT",
+                        "nowTypeDesc": "RESTAURANT"
+                    },
+                    {
+                        "nowDisplayName": "Men's Clothing",
+                        "nowNumber": "1373",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Men's Clothing"
+                    },
+                    {
+                        "nowDisplayName": "Men's Clothing",
+                        "nowNumber": "1373",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Men's Furnishings"
+                    },
+                    {
+                        "nowDisplayName": "Kidswear/Kids Designer",
+                        "nowNumber": "1383",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Babies"
+                    },
+                    {
+                        "nowDisplayName": "Kidswear/Kids Designer",
+                        "nowNumber": "1383",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Boys"
+                    },
+                    {
+                        "nowDisplayName": "Kidswear/Kids Designer",
+                        "nowNumber": "1383",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Girls"
+                    },
+                    {
+                        "nowDisplayName": "Rail/Sportswear",
+                        "nowNumber": "1518",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Men's Sportswear"
+                    },
+                    {
+                        "nowDisplayName": "Rail/Sportswear",
+                        "nowNumber": "1518",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "The Rail"
+                    },
+                    {
+                        "nowDisplayName": "Rail/Sportswear",
+                        "nowNumber": "1518",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Topman"
+                    },
+                    {
+                        "nowDisplayName": "Men's Grooming",
+                        "nowNumber": "2032",
+                        "nowTypeCode": "SA",
+                        "nowTypeDesc": "SALES",
+                        "storeNowDisplayName": "Men's Grooming"
+                    }
+                ],
+                "type": "FLOOR - RTL/OFC"
+            }
+        ],
+        "functionTypes": [
+            {
+                "desc": "Finance Operations",
+                "functionTypeCode": "FNOP",
+                "startDate": "2008-03-07T08:00:00Z"
+            },
+            {
+                "desc": "PO Enabled",
+                "functionTypeCode": "POEN",
+                "startDate": "2008-03-07T08:00:00Z"
+            },
+            {
+                "desc": "Pre-open Sales",
+                "functionTypeCode": "PROS",
+                "startDate": "2008-03-07T08:00:00Z"
+            },
+            {
+                "desc": "Public Open",
+                "functionTypeCode": "PUBL",
+                "startDate": "2008-03-07T08:00:00Z"
+            },
+            {
+                "desc": "Store Planning",
+                "functionTypeCode": "STPL",
+                "startDate": "2008-03-07T08:00:00Z"
+            },
+            {
+                "desc": "Store Readiness",
+                "functionTypeCode": "STRD",
+                "startDate": "2008-03-07T08:00:00Z"
+            },
+            {
+                "desc": "Temporary Close",
+                "functionTypeCode": "TPCL"
+            }
+        ],
+        "isStoreOperationalToPublic": true,
+        "locationAddlInfo": {
+            "grossSquareFootage": 200000
+        },
+        "locationTypeCode": "R",
+        "locationTypeDesc": "RETAIL/ OFFICE",
+        "name": "ALA MOANA",
+        "ownershipTypeCode": "O",
+        "ownershipTypeDesc": "OWNED",
+        "peerGroups": [
+            {
+                "peerGroupDesc": "Resort",
+                "peerGroupNumber": "000095",
+                "peerGroupShortDesc": "Resort",
+                "peerGroupTypCode": "FPC",
+                "peerGroupTypDesc": "Full Price Corp Climate"
+            },
+            {
+                "peerGroupDesc": "Focus",
+                "peerGroupNumber": "000070",
+                "peerGroupShortDesc": "Focus",
+                "peerGroupTypCode": "FPD",
+                "peerGroupTypDesc": "Full Price Designer Store Group"
+            },
+            {
+                "peerGroupDesc": "FG1",
+                "peerGroupNumber": "000084",
+                "peerGroupShortDesc": "FG1",
+                "peerGroupTypCode": "FPF",
+                "peerGroupTypDesc": "FP Forecast Group"
+            },
+            {
+                "peerGroupDesc": "Luxe Leaning",
+                "peerGroupNumber": "000106",
+                "peerGroupShortDesc": "Luxe",
+                "peerGroupTypCode": "FPI",
+                "peerGroupTypDesc": "Full Price Corp Price"
+            },
+            {
+                "peerGroupDesc": "Elmer",
+                "peerGroupNumber": "000074",
+                "peerGroupShortDesc": "Elmer",
+                "peerGroupTypCode": "FPP",
+                "peerGroupTypDesc": "Full Price Presidents Cup Group"
+            }
+        ],
+        "postalAddress": {
+            "latitude": 21.292366,
+            "longitude": -157.840865,
+            "origCountryCode": "US",
+            "origCountryIsoCode": "USA",
+            "origCountryName": "UNITED STATES",
+            "origCountryTelephoneCode": "1",
+            "origStateCode": "HI",
+            "origStateName": "HAWAII",
+            "standardTimeZoneAbbrev": "HAST",
+            "standardTimeZoneUTCOffset": "-10:00",
+            "stdzdCityName": "HONOLULU",
+            "stdzdCountyName": "Honolulu County",
+            "stdzdLine1Text": "1450 ALA MOANA BLVD STE 2950",
+            "stdzdPostalCode": "968144506"
+        },
+        "restaurantAmenities": [
+            {
+                "code": "EBAR",
+                "desc": "Ebar",
+                "detailedHours": {
+                    "regularWeeklyScheduleDays0Sun6Sat": [
+                        {
+                            "closeAbsoluteTime": "T20:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 6,
+                            "dayOfWeekStart0Sun6Sat": 1,
+                            "openAbsoluteTime": "T08:00:00"
+                        },
+                        {
+                            "closeAbsoluteTime": "T20:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 0,
+                            "dayOfWeekStart0Sun6Sat": 0,
+                            "openAbsoluteTime": "T09:30:00"
+                        }
+                    ]
+                },
+                "nowDisplayName": "E-Bar",
+                "nowNumber": "1250",
+                "nowTypeCode": "RT",
+                "nowTypeDesc": "RESTAURANT",
+                "subLoc1Code": "70601",
+                "subLoc1Desc": "1ST FLOOR",
+                "subLoc1Type": "FLOOR - RTL/OFC",
+                "subLoc2Code": "619946",
+                "subLoc2Desc": "E-BAR",
+                "subLoc2Type": "PAD",
+                "telephone": {
+                    "externalTelephoneNumber": "8089536115"
+                }
+            },
+            {
+                "code": "GLBR",
+                "desc": "Gelato Bar",
+                "detailedHours": {
+                    "regularWeeklyScheduleDays0Sun6Sat": [
+                        {
+                            "closeAbsoluteTime": "T21:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 6,
+                            "dayOfWeekStart0Sun6Sat": 1,
+                            "openAbsoluteTime": "T12:00:00"
+                        },
+                        {
+                            "closeAbsoluteTime": "T20:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 0,
+                            "dayOfWeekStart0Sun6Sat": 0,
+                            "openAbsoluteTime": "T12:00:00"
+                        }
+                    ]
+                },
+                "nowDisplayName": "Gelato Bar",
+                "nowNumber": "1252",
+                "nowTypeCode": "RT",
+                "nowTypeDesc": "RESTAURANT",
+                "storeNowDisplayName": "Gelato Bar",
+                "subLoc1Code": "70601",
+                "subLoc1Desc": "1ST FLOOR",
+                "subLoc1Type": "FLOOR - RTL/OFC",
+                "subLoc2Code": "601540",
+                "subLoc2Desc": "GELATO BAR",
+                "subLoc2Type": "PAD",
+                "telephone": {
+                    "externalTelephoneNumber": "8089536151"
+                }
+            },
+            {
+                "code": "HBTT",
+                "desc": "Habitant",
+                "detailedHours": {
+                    "regularWeeklyScheduleDays0Sun6Sat": [
+                        {
+                            "closeAbsoluteTime": "T20:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 6,
+                            "dayOfWeekStart0Sun6Sat": 1,
+                            "openAbsoluteTime": "T11:00:00"
+                        },
+                        {
+                            "closeAbsoluteTime": "T19:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 0,
+                            "dayOfWeekStart0Sun6Sat": 0,
+                            "openAbsoluteTime": "T11:00:00"
+                        }
+                    ]
+                },
+                "nowDisplayName": "Ruscello",
+                "nowNumber": "1556",
+                "nowTypeCode": "RT",
+                "nowTypeDesc": "RESTAURANT",
+                "storeNowDisplayName": "Habitant",
+                "subLoc1Code": "70601",
+                "subLoc1Desc": "1ST FLOOR",
+                "subLoc1Type": "FLOOR - RTL/OFC",
+                "subLoc2Code": "619878",
+                "subLoc2Desc": "HABITANT",
+                "subLoc2Type": "PAD",
+                "telephone": {
+                    "externalTelephoneNumber": "8089536150"
+                }
+            },
+            {
+                "code": "RSCL",
+                "desc": "Ruscello",
+                "detailedHours": {
+                    "regularWeeklyScheduleDays0Sun6Sat": [
+                        {
+                            "closeAbsoluteTime": "T20:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 6,
+                            "dayOfWeekStart0Sun6Sat": 1,
+                            "openAbsoluteTime": "T11:00:00"
+                        },
+                        {
+                            "closeAbsoluteTime": "T19:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 0,
+                            "dayOfWeekStart0Sun6Sat": 0,
+                            "openAbsoluteTime": "T11:00:00"
+                        }
+                    ]
+                },
+                "nowDisplayName": "Ruscello",
+                "nowNumber": "1241",
+                "nowTypeCode": "RT",
+                "nowTypeDesc": "RESTAURANT",
+                "storeNowDisplayName": "Habitant",
+                "subLoc1Code": "70603",
+                "subLoc1Desc": "3RD FLOOR",
+                "subLoc1Type": "FLOOR - RTL/OFC",
+                "subLoc2Code": "601541",
+                "subLoc2Desc": "CAFÉ",
+                "subLoc2Type": "PAD",
+                "telephone": {
+                    "externalTelephoneNumber": "8089536110"
+                }
+            }
+        ],
+        "sca": {
+            "buNumber": "1000",
+            "eligibilityTypes": [
+                {
+                    "code": "BPUS"
+                },
+                {
+                    "code": "SSUS"
+                }
+            ],
+            "name": "ALA MOANA",
+            "origCountryCode": "US",
+            "stdzdPostalCode": "968144506",
+            "typeCode": "FL"
+        },
+        "serviceAmenities": [
+            {
+                "code": "ABRW",
+                "desc": "Anastasia Brow Studio"
+            },
+            {
+                "code": "AFOP",
+                "desc": "Accepted Forms of Payment"
+            },
+            {
+                "code": "ALTR",
+                "desc": "Alterations",
+                "detailedHours": {
+                    "regularWeeklyScheduleDays0Sun6Sat": [
+                        {
+                            "closeAbsoluteTime": "T21:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 6,
+                            "dayOfWeekStart0Sun6Sat": 1,
+                            "openAbsoluteTime": "T10:00:00"
+                        },
+                        {
+                            "closeAbsoluteTime": "T20:00:00",
+                            "dayOfWeekEnd0Sun6Sat": 0,
+                            "dayOfWeekStart0Sun6Sat": 0,
+                            "openAbsoluteTime": "T10:00:00"
+                        }
+                    ]
+                },
+                "nowDisplayName": "Alterations",
+                "nowNumber": "1220",
+                "nowTypeCode": "SP",
+                "nowTypeDesc": "SALES SUPPORT",
+                "subLoc1Code": "70601",
+                "subLoc1Desc": "1ST FLOOR",
+                "subLoc1Type": "FLOOR - RTL/OFC",
+                "subLoc2Code": "619521",
+                "subLoc2Desc": "ALTERATIONS",
+                "subLoc2Type": "PAD",
+                "telephone": {
+                    "externalTelephoneNumber": "8089536159"
+                }
+            },
+            {
+                "code": "BABY",
+                "desc": "Baby Gear Experts"
+            },
+            {
+                "code": "BPIS",
+                "desc": "Buy Online \u0026 Pick Up In Store"
+            },
+            {
+                "code": "CBRA",
+                "desc": "Certified Bra Fitters"
+            },
+            {
+                "code": "COPA",
+                "desc": "Contactless Payment"
+            },
+            {
+                "code": "CRPU",
+                "desc": "Curbside Pickup",
+                "detailedHours": {
+                    "regularWeeklyScheduleDays0Sun6Sat": [
+                        {
+                            "closeAbsoluteTime": "T20:30:00",
+                            "dayOfWeekEnd0Sun6Sat": 6,
+                            "dayOfWeekStart0Sun6Sat": 1,
+                            "openAbsoluteTime": "T10:00:00"
+                        },
+                        {
+                            "closeAbsoluteTime": "T19:30:00",
+                            "dayOfWeekEnd0Sun6Sat": 0,
+                            "dayOfWeekStart0Sun6Sat": 0,
+                            "openAbsoluteTime": "T10:00:00"
+                        }
+                    ]
+                },
+                "nowDisplayName": "Order Pickup",
+                "nowNumber": "2018",
+                "nowTypeCode": "SP",
+                "nowTypeDesc": "SALES SUPPORT",
+                "storeNowDisplayName": "Order Pickup",
+                "subLoc1Code": "70601",
+                "subLoc1Desc": "1ST FLOOR",
+                "subLoc1Type": "FLOOR - RTL/OFC",
+                "subLoc2Code": "630649",
+                "subLoc2Desc": "ORDER PICKUP",
+                "subLoc2Type": "PAD",
+                "telephone": {
+                    "externalTelephoneNumber": "8089536140"
+                }
+            },
+            {
+                "code": "FGWS",
+                "desc": "Gift Wrapping in Stores"
+            },
+            {
+                "code": "KSTC",
+                "desc": "Kids' Shoe-Tying Class"
+            },
+            {
+                "code": "MNGR",
+                "desc": "In-Store Monogramming"
+            },
+            {
+                "code": "NBST",
+                "desc": "Beauty Experts"
+            },
+            {
+                "code": "PRPR",
+                "desc": "Breast Surgery \u0026 Care Program"
+            },
+            {
+                "code": "STYL",
+                "desc": "Style Help"
+            },
+            {
+                "code": "TNDC",
+                "desc": "The Nordy Club"
+            }
+        ],
+        "shorterNames": {
+            "medName": "ALA MOANA",
+            "shortName": "ALAMOANA"
+        },
+        "storeNumber": "706",
+        "storePlanningChannel": {
+            "marketCode": "USA",
+            "marketDesc": "UNITED STATES",
+            "planningChannelCode": "110",
+            "planningChannelDesc": "FULL LINE STORES",
+            "planningChannelTypeCode": "ST",
+            "planningChannelTypeDesc": "STORE",
+            "pricingChannels": [
+                {
+                    "pricingChannelCode": "FP",
+                    "pricingChannelDesc": "FULL PRICE"
+                }
+            ]
+        },
+        "storeReserveAreaInfo": {
+            "desc": "Order pickup on the 2nd floor near the Diamond Head entrance",
+            "name": "Order pickup on the 2nd floor near the Diamond Head entrance"
+        },
+        "telephone": {
+            "externalTelephoneNumber": "8089536100",
+            "internalTelephoneNumber": "87060111"
+        },
+        "timeZoneName": "Pacific/Honolulu",
+        "typeCategoryCode": "SE",
+        "typeCategoryDesc": "SELLING",
+        "typeCode": "FL",
+        "typeDesc": "MAIN LINE",
+        "typeIsInventoryStore": true,
+        "typeIsSellingStore": true
+    },
+    "currentDataUpdatedTimeStamp": "2024-03-13T20:25:37.82000000Z",
+    "currentDataUpdatedTimeStampMS": "2024-03-13T20:25:37.082Z",
+    "rootLevelChanges": [
+        {
+            "node": "detailedStoreHours"
+        }
+    ],
+    "storeNumber": "706"
+}
