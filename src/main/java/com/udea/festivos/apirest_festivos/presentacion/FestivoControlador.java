@@ -2,6 +2,7 @@ package com.udea.festivos.apirest_festivos.presentacion;
 
 /**
  * @author Pedro Arango Sánchez
+ * @author Cristian Felipe Estrada Calvo
  * @author David Andrés Montoya Castaño
  * Universidad de Antioquia
  * Técnicas de Programación y Laboratorio [2554307] 
